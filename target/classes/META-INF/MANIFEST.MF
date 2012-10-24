@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1351082573368
+Build-Jdk: 1.6.0_35
+Built-By: ktk
+Bundle-Description: Fusepool Platform Webconsole Branding for Apache Fel
+ ix
+Bundle-ManifestVersion: 2
+Bundle-Name: Fusepool Platform Webconsole Branding
+Bundle-SymbolicName: eu.fusepool.eu.fusepool.platform.commons.felixbrand
+ ing
+Bundle-Version: 0.10.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: eu.fusepool.platform.commons.felixbranding;uses:="org.ap
+ ache.felix.webconsole";version="0.10.0.SNAPSHOT"
+Import-Package: org.apache.felix.webconsole;version="[3.1,4)"
+Tool: Bnd-1.50.0
