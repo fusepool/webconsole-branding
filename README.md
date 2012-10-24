@@ -1,4 +1,4 @@
-webconsole-branding
-===================
+usermanager
+===========
 
-Fusepool Felix webconsole branding
+a usermanager for stanbol 

@@ -13,15 +13,15 @@ public class FusepoolWebConsoleBranding implements BrandingPlugin {
 	}
 
 	public String getFavIcon() {
-		return "webconsolebranding/images/fusepool/fusepool-icon-only-16x16.png";
+		return "fusepool/res/fusepool-icon-only-16x16.png";
 	}
 
 	public String getMainStyleSheet() {
-		return "css/style.css";
+		return "/res/ui/webconsole.css";// "fusepool/res/style.css";
 	}
 
 	public String getProductImage() {
-		return "webconsolebranding/images/fusepool/fusepool-icon-text-300x66.png";
+		return "fusepool/res/fusepool-icon-text-300x66.png";
 	}
 
 	public String getProductName() {
