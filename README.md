@@ -1,4 +1,3 @@
-usermanager
-===========
+Fusepool Branding
+=================
 
-a usermanager for stanbol 
